@@ -1,4 +1,4 @@
-![377028273-f1779572-cb0f-40ed-a1fe-2c2c4898117e](https://github.com/user-attachments/assets/68ecc155-0b43-4560-8558-719deec8b194)# creating-a-backdoor-with-SET
+# creating-a-backdoor-with-SET
 creating a backdoor with SET - Ethical Hacking Techniques course
 
 # AIM:
